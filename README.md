@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kajaltiwa
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on Nitin Chauhan 
+- 💞️ I’m looking to collaborate on Ducat
 - 📫 How to reach me kajaltiwari3002@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: GitHub's mascot, the Octocat, is named Monalisa! 🐙😺
